@@ -1,0 +1,39 @@
+# ARMenu - Augmented Reality Restaurant Menu SaaS
+
+> Restaurant menu SaaS letting diners view dishes as 3D models in augmented reality before ordering.
+
+Author: Muhammad Tanveer (Full-Stack AI Automation Engineer)
+Contact: mtanveertahir66@gmail.com | https://www.linkedin.com/in/muhammad-tanveer-advenno/
+Repository: https://github.com/haddindeve/armenu-augmented-reality-menu-saas
+Source availability: implementation held in a private repository; access on request.
+
+## Summary
+Diners order from text and photographs and are routinely surprised by portion size and presentation. Restaurants carry the cost of that mismatch in returned plates and poor reviews.
+
+A multi-tenant SaaS where restaurants manage dishes and attach 3D models, and diners view them in augmented reality from a phone browser - no app install, since anything requiring a download will not be used at a table.
+
+## Stack
+Frontend: React, TypeScript, Vite, Styling: Tailwind CSS, AR: Browser-based WebAR rendering, Architecture: Multi-tenant SaaS
+
+## Capabilities
+- Augmented reality dish preview
+- No app install required
+- Multi-tenant restaurant management
+- Mobile-first diner experience
+
+## Outcomes
+- Diners see true portion and presentation before ordering
+- Delivered in-browser, removing the install barrier at the table
+
+## FAQ
+Q: Do diners need an app?
+A: No - AR runs in the phone's browser from a QR code or link.
+
+Q: How do restaurants add dishes?
+A: Through a management interface where each dish can carry a 3D model alongside its price and description.
+
+Q: Is it multi-tenant?
+A: Yes - each restaurant manages its own menu within one platform.
+
+Q: Is the code available?
+A: Private repository; access on request.
